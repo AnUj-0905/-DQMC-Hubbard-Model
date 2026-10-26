@@ -33,7 +33,7 @@ pip install git+https://github.com/drazerd/dqmc.git
 
 ---
 
-## Hubbard Model Project — IISER Bhopal
+## Hubbard Model Project 
 
 This repository contains the DQMC codebase used for a computational study of the
 two-dimensional Hubbard model at half filling, along with the associated project
